@@ -1,10 +1,39 @@
 # Hi 👋, I'm Emir Aliev
 
-### A passionate full-stack developer
+Platform & Infrastructure Engineer focused on backend systems, Linux environments, automation, and service reliability.
+
+Experienced in designing and operating production-ready backend platforms using Python, PHP, Docker, Node.js, and Linux-based infrastructure.
+
+My work combines software engineering, deployment workflows, operational troubleshooting, and system lifecycle management with a strong focus on scalability, maintainability, and operational efficiency.
+
+Currently interested in:
+- Backend Engineering
+- DevOps & Platform Engineering
+- Infrastructure Automation
+- Linux Systems
+- Service Reliability
+- API Architecture
+- AI-assisted Automation
+
+---
+
+## Tech Stack
+
+### Backend & APIs
+Python • Django • PHP • Node.js • REST APIs
+
+### Infrastructure & Operations
+Docker • Linux • Nginx • Git • CI/CD • System Administration
+
+### Databases
+PostgreSQL • MySQL • SQLite • MongoDB
+
+### Additional Technologies
+JavaScript • Bash • Raspberry Pi • Automation Workflows
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmirTheBest7" alt="EmirTheBest7" /></a> </p>
 
-### 🤝 Connect with me:
+### 🤝 Connect me:
 
 | | | | |
 |---|---|---|---|
