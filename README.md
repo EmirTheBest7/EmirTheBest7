@@ -6,7 +6,6 @@ I design and operate production-ready backend platforms using Python, PHP, Node.
 
 My work combines software engineering, deployment workflows, system architecture, and operational troubleshooting across full system lifecycles.
 
----
 
 ## Currently focused on:
 - Backend Engineering
@@ -16,8 +15,6 @@ My work combines software engineering, deployment workflows, system architecture
 - Service Reliability Engineering
 - API Architecture
 - AI-assisted Automation
-
----
 
 ## Tech Stack
 
@@ -30,7 +27,6 @@ Linux • Docker • Nginx • Git • CI/CD • System Administration
 ### Databases
 SQL Databases • PostgreSQL • MySQL • SQLite
 
----
 
 ## 🤝 Contact me
 
@@ -38,7 +34,6 @@ SQL Databases • PostgreSQL • MySQL • SQLite
 |---|---|---|
 | <a href="https://github.com/EmirTheBest7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a> | <a href="https://www.linkedin.com/in/emir-a-77a00a118/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> | <a href="https://stackoverflow.com/users/14171683/emirthebest7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a> |
 
----
 
 ## 🧰 Languages and Tools
 
